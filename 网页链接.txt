@@ -1,0 +1,22 @@
+http://echarts.baidu.com/examples/
+https://github.com
+https://www.json.cn/
+
+笔记
++++++
+.py文件生成.exe文件
+1..py文件路径    
+2.英文
+3.Anaconda cmd(安装生成exe插件)
+pip installer pyinstaller  
+4.打包程序,
+pyinstaller -F xxx.py 
+
+
+PPT
+自我介绍
+项目内容
+功能介绍
+本周计划
+时间安排
+最后收获
